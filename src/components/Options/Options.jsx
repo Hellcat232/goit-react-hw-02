@@ -1,5 +1,3 @@
-const Options = () => {
-  return <></>;
-};
+const Options = () => {};
 
 export default Options;
